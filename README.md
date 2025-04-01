@@ -17,9 +17,3 @@ import tkinter as tk                # GUI creation
 from tkinter import messagebox      # Displaying results in a pop-up  
 import random                       # Generating random choices  
 from PIL import Image, ImageTk      # Handling background images  
-
-
-
-
-
-
