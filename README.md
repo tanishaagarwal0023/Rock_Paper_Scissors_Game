@@ -11,7 +11,6 @@ A simple **Rock Paper Scissors** game built using **Python and Tkinter** with a 
 ## 📂 Import Libraries  
 This project uses the following libraries:  
 
-```python
 import tkinter as tk                # GUI creation  
 from tkinter import messagebox      # Displaying results in a pop-up  
 import random                       # Generating random choices  
