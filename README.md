@@ -17,5 +17,3 @@ from tkinter import messagebox      # Displaying results in a pop-up
 import random                       # Generating random choices  
 from PIL import Image, ImageTk      # Handling background images  
 
-#OUTPUT
-![Screenshot 2025-04-01 154336](https://github.com/user-attachments/assets/bc5c48d6-5633-4670-9039-1ce848365a49)
